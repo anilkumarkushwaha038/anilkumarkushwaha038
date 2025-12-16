@@ -48,9 +48,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 GitHub: https://github.com/your-username
-- 📧 Email: your-email@gmail.com
-
----
+- 💼 GitHub: https://github.com/anilkumarkushwaha038
+- 📧 Email: anilkumarkushwaha038@gmail.com
 
 ⭐ **If you like my work, don’t forget to give a star to my repositories!**
